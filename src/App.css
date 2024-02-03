@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+}
+
+.headingStyle {
+  color: white;
+  font-size: 25px;
+  border: 1px solid gray;
+  background-color: #0754ef;
+  font-weight: bold; /* 'font-weight' property instead of 'font: bold;' */
+  position: relative;
+  width: 300px;
+  text-align: center; /* 'text-align' instead of 'align' */
+  margin-left: 500px; /* 'margin-left' instead of 'marginLeft' */
+}
+
+.listStyle {
+  text-decoration: line-through;
+}
+
+.checkbox {
+  appearance: none;
+  width: 20px;
+  height: 20px;
+  border: 2px solid #000;
+  border-radius: 50%;
+  outline: none;
+  cursor: pointer;
+}
+
+.roundLabel {
+  color: #f90101;
+  border: 2px solid #f90101;
+}
